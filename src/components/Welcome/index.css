@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.con {
+  width: 70vw;
+  height: 70vw;
+  background-color: black;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  justify-content: space-between;
+}
+.button {
+  background-color: aliceblue;
+  color: black;
+}
